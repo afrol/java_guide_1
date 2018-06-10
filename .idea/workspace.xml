@@ -7,59 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eea85793-4b12-4942-afce-fda33ac69973" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HelloWorld_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_helloworld.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/HelloWorld_jar/HelloWorld.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/ArgsDemo/ArgsDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/ArgsDemo/MyClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/AssignObjDemo/AssignObj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/AssignObjDemo/AssignObjDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/CharArraySorting/CharArraySorting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/ForEachDemo/ForEachDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/MakeObjCopyDemo/MakeObjCopyDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/MakeObjCopyDemo/ObjCopy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/SimpleArray/SimpleArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/StatMethDemo/MyMath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/StatMethDemo/StatMethDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/UsingIf/UsingIf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/UsingMoreIf/UsingMoreIf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/UsingSwitch/UsingSwitch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/UsingWhile/UsingWhile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/helloworld/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/makechoice/MakeChoice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/overload/OverloadContext.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/overload/OverloadMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/usingfor/UsingFor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/usinginteger/UsingInteger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/usingvar/UsingVar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/artnet/whatname/WhatIsYourName.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/ArgsDemo/ArgsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/AssignObjDemo/AssignObjDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/CharArraySorting/CharArraySorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/ForEachDemo/ForEachDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/MakeObjCopyDemo/MakeObjCopyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/SimpleArray/SimpleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/StatMethDemo/StatMethDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/UsingIf/UsingIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/UsingMoreIf/UsingMoreIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/UsingSwitch/UsingSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/UsingWhile/UsingWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/helloworld/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/makechoice/MakeChoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/overload/OverloadMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/usingfor/UsingFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/usinginteger/UsingInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/usingvar/UsingVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/artnet/whatname/WhatIsYourName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/artnet/ArraysAndObjs/ArraysAndObjs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +23,7 @@
       <file leaf-file-name="OverloadMethod.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/artnet/overload/OverloadMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="135">
               <caret line="9" column="81" selection-start-line="9" selection-start-column="81" selection-end-line="9" selection-end-column="81" />
             </state>
           </provider>
@@ -83,7 +32,7 @@
       <file leaf-file-name="AssignObjDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/artnet/AssignObjDemo/AssignObjDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="390">
               <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
             </state>
           </provider>
@@ -92,7 +41,7 @@
       <file leaf-file-name="MakeObjCopyDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/artnet/MakeObjCopyDemo/MakeObjCopyDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
+            <state relative-caret-position="315">
               <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
             </state>
           </provider>
@@ -101,20 +50,37 @@
       <file leaf-file-name="StatMethDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/artnet/StatMethDemo/StatMethDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArgsDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArgsDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/artnet/ArgsDemo/ArgsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            <state relative-caret-position="495">
+              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArraysAndObjs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/artnet/ArraysAndObjs/ArraysAndObjs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/PrintStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="771" selection-start-line="771" selection-end-line="771" />
               <folding>
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#27497#27498#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -155,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/com/artnet/MakeObjCopyDemo/MakeObjCopyDemo.java" />
         <option value="$PROJECT_DIR$/src/com/artnet/StatMethDemo/StatMethDemo.java" />
         <option value="$PROJECT_DIR$/src/com/artnet/ArgsDemo/ArgsDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/artnet/ArraysAndObjs/ArraysAndObjs.java" />
       </list>
     </option>
   </component>
@@ -167,36 +134,34 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1612" />
     <option name="height" value="876" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="java_guide_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_guide_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArgsDemo">
+  <component name="RunManager" selected="Application.ArraysAndObjs">
     <configuration name="ArgsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.artnet.ArgsDemo.ArgsDemo" />
       <module name="HelloWorld" />
@@ -233,6 +198,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.artnet.ArgsDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ArraysAndObjs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.artnet.ArraysAndObjs.ArraysAndObjs" />
+      <module name="HelloWorld" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.artnet.ArraysAndObjs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,17 +231,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.artnet.MakeObjCopyDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="OverloadMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.artnet.overload.OverloadMethod" />
-      <module name="HelloWorld" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.artnet.overload.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,19 +288,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.OverloadMethod" />
       <item itemvalue="Application.AssignObjDemo" />
       <item itemvalue="Application.MakeObjCopyDemo" />
       <item itemvalue="Application.StatMethDemo" />
       <item itemvalue="Application.ArgsDemo" />
+      <item itemvalue="Application.ArraysAndObjs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysAndObjs" />
         <item itemvalue="Application.ArgsDemo" />
         <item itemvalue="Application.StatMethDemo" />
         <item itemvalue="Application.MakeObjCopyDemo" />
         <item itemvalue="Application.AssignObjDemo" />
-        <item itemvalue="Application.OverloadMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -354,14 +319,16 @@
       <workItem from="1526207171218" duration="11278000" />
       <workItem from="1527346582735" duration="5153000" />
       <workItem from="1527413359329" duration="3288000" />
+      <workItem from="1528627980850" duration="1369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26890000" />
+    <option name="totallyTimeSpent" value="28259000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -372,19 +339,20 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005952" side_tool="true" weight="0.3991276" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.40380314" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.23135464" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32997763" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24388753" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24375" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Learn" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49940476" visible="true" weight="0.39878234" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49940476" weight="0.3991276" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -408,18 +376,17 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/artnet/ArraysAndObjs/ArraysAndObjs.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/artnet/overload/OverloadMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="81" selection-start-line="9" selection-start-column="81" selection-end-line="9" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/artnet/AssignObjDemo/AssignObjDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -535,13 +502,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/jdk.scripting.nashorn/jdk/nashorn/internal/parser/TokenType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/jdk.scripting.nashorn/jdk/nashorn/internal/parser/TokenType.java" />
     <entry file="file://$PROJECT_DIR$/META-INF/application.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -594,13 +555,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/jdk.scripting.nashorn/jdk/nashorn/internal/parser/TokenType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/jdk.scripting.nashorn/jdk/nashorn/internal/parser/TokenType.java" />
     <entry file="file://$PROJECT_DIR$/src/com/artnet/usinginteger/UsingInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -615,17 +570,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="1718" column="23" selection-start-line="1718" selection-start-column="23" selection-end-line="1718" selection-end-column="23" />
-          <folding>
-            <element signature="e#74377#74378#0" expanded="true" />
-            <element signature="e#74426#74427#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/System.java" />
     <entry file="file://$PROJECT_DIR$/src/com/artnet/UsingMoreIf/UsingMoreIf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -633,16 +578,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="667" column="19" selection-start-line="667" selection-start-column="19" selection-end-line="667" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/com/artnet/AssignObjDemo/AssignObjDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="390">
           <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
         </state>
       </provider>
@@ -705,33 +644,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/artnet/overload/OverloadMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="135">
           <caret line="9" column="81" selection-start-line="9" selection-start-column="81" selection-end-line="9" selection-end-column="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/artnet/MakeObjCopyDemo/MakeObjCopyDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="315">
           <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/artnet/StatMethDemo/StatMethDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/artnet/ArgsDemo/ArgsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        <state relative-caret-position="495">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="771" selection-start-line="771" selection-end-line="771" />
           <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#27497#27498#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/artnet/ArraysAndObjs/ArraysAndObjs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
         </state>
       </provider>
     </entry>
